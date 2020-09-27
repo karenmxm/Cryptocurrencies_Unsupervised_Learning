@@ -7,6 +7,6 @@ We removed non-trading cryptocurrencies in the cryptocurrencies data and predict
 
 [Please see the detailed analysis in Jupyter Notebook here](https://github.com/karenmxm/Cryptocurrencies/blob/master/Challenge.ipynb)
 
- - Elbow Curve
+ - [Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png)
  
 <img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png width=50%>
