@@ -13,4 +13,4 @@ We removed non-trading cryptocurrencies in the cryptocurrencies data and predict
 
  - [3D Clusters](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png)
  
- <img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png>
+ <img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png>
