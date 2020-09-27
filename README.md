@@ -9,4 +9,4 @@ We removed non-trading cryptocurrencies in the cryptocurrencies data and predict
 
  - Elbow Curve
  
- ![Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png){width=200px}
+ ![Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png){ width=50% }
