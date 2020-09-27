@@ -5,8 +5,7 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 ## Unsupervised Learning (K-means) and Feature Reduction (PCA)
 We removed non-trading cryptocurrencies in the cryptocurrencies data and predicted four clusters using PCA to reduce dimention and unsupervised learning K-means algorithm from sklearn. 
 
- - Elbow Curve
- ![Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png)
-
 [Please see the detailed analysis here](https://github.com/karenmxm/Cryptocurrencies/blob/master/Challenge.ipynb)
 
+ - Elbow Curve
+ ![Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png)
