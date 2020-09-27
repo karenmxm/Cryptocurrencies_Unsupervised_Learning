@@ -9,7 +9,8 @@ We removed non-trading cryptocurrencies in the cryptocurrencies data and predict
 
  - [Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png)
  
-<img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png width=50%>
+<img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png width=80%>
+
 
  - [3D Clusters](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png)
  
