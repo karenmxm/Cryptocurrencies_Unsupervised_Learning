@@ -8,11 +8,9 @@ We removed non-trading cryptocurrencies in the cryptocurrencies data and predict
 [Please see the detailed analysis in Jupyter Notebook here](https://github.com/karenmxm/Cryptocurrencies/blob/master/Challenge.ipynb)
 
  - [Elbow Curve](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png)
- 
 <img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/Elbow_curve.png width=80%>
 
  - [3D Clusters](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png)
- 
  <img src=https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_3d.png>
  
  - [2D Clusters](https://github.com/karenmxm/Cryptocurrencies/blob/master/Images/clusters_2d.png)
